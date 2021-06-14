@@ -1,0 +1,14 @@
+{
+    “name": “isti”,
+    "gender”: false,
+    “ethnicity”: “Machine”
+    “height”: 200
+    “weight”: 300
+    "age": false,
+    "address": {
+        "streetAddress": “30 Rue du Capitaine Marchal”,
+        "city": “Paris”,
+        "postalCode": “75020”
+    },
+
+}
