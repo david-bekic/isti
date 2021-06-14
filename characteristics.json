@@ -5,6 +5,7 @@
     “height”: 200
     “weight”: 300
     "age": false,
+    "voice": tenor
     "address": {
         "streetAddress": “30 Rue du Capitaine Marchal”,
         "city": “Paris”,
